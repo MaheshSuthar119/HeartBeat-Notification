@@ -55,6 +55,7 @@ Install pytest
 These two parameters define alert logic:
 
 `expected_interval_seconds = 60
+
 allowed_misses = 3`
 
 ## Error Handling
